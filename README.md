@@ -1,1 +1,1 @@
-readme for zero_day
+read me for vagrant directory
